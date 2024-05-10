@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to left,#00ff08,#23c929, #329836);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background-color: rgb(69, 215, 43);
+}
+
+h1{
+    background-color: #FC9B49;
+    color: azure;
+    border-radius: 40px;    
+}
+
+#planta{
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px darkolivegreen;
+    
+}
+
+a{
+    color: #5323ff;
+}
+
+#links{
+    color: #7049FC;
+}
+
+#btn{
+    background-color: #FC9B49;
+    color: white;
+    border-color: #FC9B49;
+    margin-bottom: 10px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+
+div{
+    color: white;
+}
